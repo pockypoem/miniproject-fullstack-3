@@ -3,6 +3,7 @@
 ## GUIDE
 
 - Run XAMPP
+- import db to your phpmyadmin
 - `http://localhost:8080/miniproject-fullstack-3/public/` paste that link to your browser
 - Enjoy the web
 
